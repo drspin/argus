@@ -1,3 +1,4 @@
+```
     / \   _ __ __ _ _   _ ___
    / _ \ | '__/ _` | | | / __|
   / ___ \| | | (_| | |_| \__ \
@@ -6,6 +7,7 @@
                     argus.js (v.01) link checker
                     usage:  casperjs argus.js <url> or --url=<url>
                             for SSL sites: casperjs --ssl-protocol=any argus.js <url> or --url=<url>
+```
 
 Argus is a casperjs/phantomjs site link validator. It currently just follows 1 level of links. It
 takes a valid url as an argument, which can be passed in after argus.js or with --url=<url>. This is
